@@ -7,4 +7,4 @@ import Autodesk
 from Autodesk.Revit.DB import *
 
 
-code SAi 
+#Thêm chức năng khác.Người dùng ngoài thêm
